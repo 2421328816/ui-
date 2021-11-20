@@ -54,4 +54,4 @@ for k, v in dict1.items():
         with open(f'd:/{book_name}/{k}.txt','w+') as file1:
             file1.write(neirong)
         count+=1
-
+#获取全部正文，自己编写的。
