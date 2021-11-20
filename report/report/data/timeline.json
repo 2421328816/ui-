@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-N8S8OR4",
+    "children" : [ {
+      "name" : "16824-MainThread",
+      "children" : [ {
+        "name" : "层级三",
+        "uid" : "8b10720c163df2a0",
+        "parentUid" : "084035b52497d23e45285c1b7ad35082",
+        "status" : "failed",
+        "time" : {
+          "start" : 1637403834245,
+          "stop" : 1637403834246,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "084035b52497d23e45285c1b7ad35082"
+    } ],
+    "uid" : "9b6dfaf7bb26e46a76e4708b100d1610"
+  } ]
+}

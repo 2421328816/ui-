@@ -1,0 +1,26 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "一级标签",
+    "children" : [ {
+      "name" : "层级二",
+      "children" : [ {
+        "name" : "层级三",
+        "uid" : "8b10720c163df2a0",
+        "parentUid" : "a506ad67d26032385b03046ab28ed5d6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1637403834245,
+          "stop" : 1637403834246,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a506ad67d26032385b03046ab28ed5d6"
+    } ],
+    "uid" : "5dd587553d237c8e0fcac4d6b9187e88"
+  } ]
+}

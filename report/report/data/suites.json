@@ -1,0 +1,26 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_datago",
+    "children" : [ {
+      "name" : "Test99",
+      "children" : [ {
+        "name" : "层级三",
+        "uid" : "8b10720c163df2a0",
+        "parentUid" : "afd9883f3ce7d17ee80447784f43ed9e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1637403834245,
+          "stop" : 1637403834246,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "afd9883f3ce7d17ee80447784f43ed9e"
+    } ],
+    "uid" : "85275d6c1b9701ffb6a32d17d1b3d6d9"
+  } ]
+}
