@@ -77,3 +77,5 @@ for i in range(len(serverLog_list01)):
          alist.append([qishu,score,1])
 print(alist)
 #print(serverLog_list01)
+
+print('ok')
